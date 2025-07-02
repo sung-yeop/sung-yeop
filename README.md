@@ -1,25 +1,49 @@
-## 
+<div align="left">
 
+## 🌟 Overview
+<span>프론트엔드 개발자 정성엽입니다</span>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sung-yeop&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/sung-yeop"
-  width="600"
-  height="300"
-/>
-</a>
+## 🔥 Activities
+**Frontend Developer** | **LG CNS AM CAMP 1st** (2024.12 ~ 2025.06)
 
-<!--
-**sung-yeop/sung-yeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sung-yeop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query"/>
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white" alt="Zustand"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo"/>
+
+**Testing & Tools**  
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/MSW-FF6A33?style=flat&logoColor=white" alt="MSW"/>
+
+**Backend**  
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring JPA"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+
+**DevOps**  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="S3"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+
+**Currently Learning 🌱**  
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron"/>
+<img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat&logoColor=white" alt="WebGPU"/>
+
+</div>
