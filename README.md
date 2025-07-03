@@ -42,8 +42,4 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
-**Currently Learning 🌱**  
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron"/>
-<img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat&logoColor=white" alt="WebGPU"/>
-
 </div>
